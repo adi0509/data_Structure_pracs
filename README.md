@@ -1,3 +1,5 @@
-# data_Structure_pracs
+# Data_Structure_pracs
 
-Uploading practicals in this repositorie.
+Data Scturcture practicals and homework will be uploaded here.
+The programs are in C and C++ language.
+ (B.Sc. Computer Science (Hons)-3rd Semester, July-December 2018)
